@@ -1,0 +1,9 @@
+services:
+  app:
+    image: frontend-dev
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    ports:
+      - 3210:5173
+    container_name: frontend-dev
