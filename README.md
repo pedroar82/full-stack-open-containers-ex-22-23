@@ -1,7 +1,7 @@
-## Exercises 22 and 23 Full stack app repository
+## Full stack app repository
 
-# Backend
-https://github.com/pedroar82/full-stack-open/tree/main/part4/blog
+https://github.com/pedroar82/full-stack-open
 
-# Frontend
-https://github.com/pedroar82/full-stack-open/tree/main/part5/bloglist
+## Full stack app repository for exercises 22 and 23
+Backend: part4/blog  
+Frontend: part5/bloglist
